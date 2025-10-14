@@ -4,6 +4,10 @@ Each of us is a bit like an Large Language Model (LLM, such as ChatGPT), absorbi
 
 I list these in no particular order.
 
+- [In Search of the Miraculous](https://en.wikipedia.org/wiki/In_Search_of_the_Miraculous])
+- **The Five Sons of King Pandu**
+- **The Baghavad Gita As It Is**
+
 ### Entertainment
 
 #### Books
