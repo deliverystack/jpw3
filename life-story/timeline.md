@@ -63,7 +63,7 @@ The following list describes the columns in this table:
 | 2019 | 46  | Portland West/Lao | -       | ?                 | Kham    | John Ben +Wendy |
 | 2020 | 47  | Portland West     | -       | ?                 | -       | John Ben Wendy  |
 | 2021 | 48  | Portland West     | -       | ?                 | -       | John Ben Wendy  |
-| 2022 | 49  | Portland West     | -Dad    | ?                 | Yaz     | John Ben Wendy  |
-| 2023 | 50  | Portland West/Lao | -       | Conscia           | Yaz     | John Ben Wendy  |  
-| 2024 | 51  | Portland West/Lao | -       | -                 | Yaz     | John Ben Wendy  |  
-| 2025 | 52  | Lao/Thai          | -       | -                 | Yaz     | John Ben Wendy  |  
+| 2022 | 49  | Portland West     | -Dad    | ?                 | Marta   | John Ben Wendy  |
+| 2023 | 50  | Portland West/Lao | -       | Conscia           | Marta   | John Ben Wendy  |  
+| 2024 | 51  | Portland West/Lao | -       | -                 | Marta   | John Ben Wendy  |  
+| 2025 | 52  | Lao/Thai          | -       | -                 | Marta   | John Ben Wendy  |  

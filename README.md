@@ -13,17 +13,16 @@ Unfortunately, each of us needs to make our own mistakes and learn our own lesso
 ## Table of Contents
 
 - Life Story
-  - [Family History](./life-story/family-history.md)
+  - [Lifetime Timeline](./life-story/timeline.md) - This table provides a general overview of the my life's timeline.
+  - [Family History](./life-story/family-history.md) - A little bit about my family from before my birth.
   - [The First Three Years - 1973-1976](./life-story/1973-1976.md)
 
 ## Appendix
 
-This table provides a general overview of the my life's timeline.
-
-- [Lifetime Timeline](./timeline.md)
+- [Things To Do Daily](./resources/daily.md)
 
 This list includes media that has influenced me somehow.
 
-- [Bibliography](./bibliography.md)
+- [Bibliography](./resources/bibliography.md)
 
 
