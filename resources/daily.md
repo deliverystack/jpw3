@@ -14,7 +14,7 @@ In no particular order, I recommend doing as many of the following things as pos
 - Read, for example from a spiritual text or something about psychology.
 - Write, especially journaling.
 - Communicate with at least one other person with whom you don't otherwise interact frequently.
-- Purge, including possessions and data (old files and email).
+- Purge, including both possessions and data, such as old files and email.
 - Plan and prepare, whether for today or tomorrow. Determine your top priorities and do things like selecting your clothes. Any tasks you do earlier will improve your experiences later.
 
 ### Things **NOT** To Do Daily
@@ -28,3 +28,4 @@ In no particular order, I recommend not doing the following things every day. Th
 - Do any other drugs.
 - Sexual activity of any kind.
 - Intake caffeine.
+- Use the Internet too much. Actually, this is something that you should never do. Set a limit and stay within that limit. Take some days completely off from the Internet (to the extent possible).

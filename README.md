@@ -16,6 +16,11 @@ Unfortunately, each of us needs to make our own mistakes and learn our own lesso
   - [Lifetime Timeline](./life-story/timeline.md) - This table provides a general overview of the my life's timeline.
   - [Family History](./life-story/family-history.md) - A little bit about my family from before my birth.
   - [The First Three Years - 1973-1976](./life-story/1973-1976.md)
+  - [The End of Sitecore - 2015](./life-story/2015.md)
+  - [Singapore - 2016-2018](./life-story/2016-2018.md)
+
+  - [2025: WTF, World](./life-story/2025.md)
+
 
 ## Appendix
 
